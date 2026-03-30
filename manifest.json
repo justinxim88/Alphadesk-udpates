@@ -1,0 +1,5 @@
+{
+  "version": "1.0.14",
+  "download_url": "https://raw.githubusercontent.com/justinxim88/alphadesk-updates/main/alphadesk_latest.zip",
+  "changelog": "- Working orders tab fixed\n- DOM colors improved\n- Quick trade auto-price\n- Options contract selector\n- Webhook automation\n- Open P&L popup\n- TradingView symbol sync"
+}

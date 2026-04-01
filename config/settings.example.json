@@ -1,0 +1,26 @@
+{
+  "app_key": "YOUR_SCHWAB_APP_KEY",
+  "app_secret": "YOUR_SCHWAB_APP_SECRET",
+  "paper_mode": true,
+  "paper_hash": "",
+  "live_hash": "",
+  "default_session": "NORMAL",
+  "default_duration": "DAY",
+  "default_qty": 1,
+  "confirm_orders": false,
+  "hotkeys": {
+    "buy_market": "Ctrl+B",
+    "sell_market": "Ctrl+S",
+    "flatten": "Ctrl+F",
+    "cancel_all": "Ctrl+X",
+    "reverse": "Ctrl+R",
+    "refresh": "F5",
+    "chart_zoom": "Ctrl+Z",
+    "chart_recenter": "Ctrl+0"
+  },
+  "default_period": "1M",
+  "default_indicators": ["Volume"],
+  "font_size": 12,
+  "show_dom": true,
+  "short_guard": true
+}
